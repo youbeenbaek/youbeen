@@ -1245,7 +1245,7 @@ header .logo a {
 }
 .main-navigation li a {
 	display: block;
-	color: #FFFFFF;
+	color: #000000;
 	width: auto;
 	padding: 15px 0;
 	line-height: 16px;
